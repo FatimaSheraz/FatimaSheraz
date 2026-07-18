@@ -47,9 +47,7 @@ const fatimaSheraz = {
     "Pakistan Sign Language Recognition",
     "YouTube Live Comment Sentiment Analysis"
   ],
-  certifications: [],   // add yours here and I'll slot them in
   status: "Building deep learning & computer vision systems — from research notebooks to deployed apps",
-  openTo: []             // tell me what to list here (internships, research collabs, freelance, etc.)
 };
 ```
 
@@ -102,10 +100,6 @@ An explainable ensemble deep learning framework for thyroid cancer classificatio
 
 </details>
 
-*Send me this project's repo link and I'll add the stats card + Code link.*
-
-<br/>
-
 ### 🤟 Pakistan Sign Language Recognition
 
 A computer vision system that recognizes Pakistan Sign Language gestures from images/video, built on a fine-tuned MobileNetV2 CNN and trained with heavy data augmentation for robustness. The model reaches **97% accuracy**, with test-time augmentation (TTA) used to further stabilize predictions and Grad-CAM used to visualize which hand regions the network focuses on for each sign. Callbacks like early stopping, model checkpointing, and learning-rate reduction on plateau keep training efficient and prevent overfitting.
@@ -127,10 +121,6 @@ A computer vision system that recognizes Pakistan Sign Language gestures from im
 
 </details>
 
-*Send me this project's repo link and I'll add the stats card + Code link.*
-
-<br/>
-
 ### 💬 YouTube Live Comment Sentiment Analysis
 
 A natural language processing project that analyzes sentiment in real-time comments on live YouTube videos, classifying viewer reactions as positive, negative, or neutral as they come in.
@@ -150,8 +140,6 @@ A natural language processing project that analyzes sentiment in real-time comme
 </details>
 
 🔗 **Code:** [github.com/fatimasheraz/Sentiment-Analysis-of-live-Youtube-video-comments-](https://github.com/fatimasheraz/Sentiment-Analysis-of-live-Youtube-video-comments-)
-
-*Give me the specific libraries/model used here (e.g. VADER, TextBlob, a transformer) and I'll fill out the tech table.*
 
 <br/>
 
